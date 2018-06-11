@@ -15,6 +15,9 @@
 ## Extra Arduino dependencies
 * TBD
 
+## Vehicle dependencies
+* VSS input to Megasquirt (may require vehicle modifications)
+
 ## Megasquirt details
 * Uses Megasquirt's "Simplified Dash Broadcasting" as described in [this PDF](http://www.msextra.com/doc/pdf/Megasquirt_CAN_Broadcast.pdf).
 
