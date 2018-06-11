@@ -8,7 +8,9 @@
 * Designed for a 1980s-1990s aesthetic.
 
 ## Hardware details
-* TBD
+* [SparkFun AST-CAN485 Dev Board](https://www.sparkfun.com/products/14483)
+* [ADXL335 3-axis accelerometer](https://www.sparkfun.com/products/9269)
+* 16x2 character LCD
 
 ## Extra Arduino dependencies
 * TBD
