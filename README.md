@@ -4,7 +4,6 @@
 
 ## Overview
 * Provides a display of various performance metrics.
-* Will also contain extra code to control an electric power steering ECU.
 * Designed for a 1980s-1990s aesthetic.
 
 ## Hardware details
@@ -16,9 +15,7 @@
 * TBD
 
 ## Vehicle dependencies
-* VSS input to Megasquirt (may require vehicle modifications)
+* VSS input to meguinance (either from Megasquirt CAN-BUS or direct connection)
 
 ## Megasquirt details
-* Uses Megasquirt's "Simplified Dash Broadcasting" as described in [this PDF](http://www.msextra.com/doc/pdf/Megasquirt_CAN_Broadcast.pdf).
-
-
+* If using Megasquirt CAN-BUS for speed input, uses Megasquirt's "Simplified Dash Broadcasting" as described in [this PDF](http://www.msextra.com/doc/pdf/Megasquirt_CAN_Broadcast.pdf).
