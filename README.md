@@ -1,6 +1,6 @@
-# meguinance
+# carfuino
 
-**MEG**asquirt + ard**UIN**o + perform**ANCE** = meguinance. Vehicle performance monitor for [Megasquirt](http://megasquirt.info/).
+**CAR** + per**f**ormance + ard**UINO** = carfuino. Vehicle performance monitor.
 
 ## Overview
 * Provides a display of various performance metrics.
@@ -15,7 +15,9 @@
 * TBD
 
 ## Vehicle dependencies
-* VSS input to meguinance (either from Megasquirt CAN-BUS or direct connection)
+* VSS input to carfuino
 
-## Megasquirt details
-* If using Megasquirt CAN-BUS for speed input, uses Megasquirt's "Simplified Dash Broadcasting" as described in [this PDF](http://www.msextra.com/doc/pdf/Megasquirt_CAN_Broadcast.pdf).
+## Integrations (TBD)
+* If using Megasquirt CAN-BUS for VSS input, uses Megasquirt's "Simplified Dash Broadcasting" as described in [this PDF](http://www.msextra.com/doc/pdf/Megasquirt_CAN_Broadcast.pdf).
+* May also output VSS to Megasquirt using CAN Receiving as described in [this PDF](http://www.msextra.com/doc/pdf/Megasquirt3_TunerStudio_MS_Lite_Reference-1.4-supplement.pdf)
+* Output VSS data through other means (??) to support additional speed-related Arduino projects (ex: speed sensitive power steering assist)
