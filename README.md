@@ -1,6 +1,6 @@
 # carfuino
 
-**CAR** + per**f**ormance + ard**UINO** = carfuino. Vehicle performance monitor.
+**CAR** + per**F**ormance + ard**UINO** = carfuino. Vehicle performance monitor.
 
 ## Overview
 * Provides a display of various performance metrics.
