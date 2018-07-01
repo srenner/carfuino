@@ -6,9 +6,9 @@
 * Provides a display of various performance metrics:
   * Base view with trip timer and max MPH
   * Realtime g-force
-  * 0 - 60 acceleration time
-  * 60 - 0 braking distance in feet
-  * 0 - 100 - 0 acceration & braking time
+  * 0-60 acceleration time
+  * 60-0 braking distance in feet
+  * 0-100-0 acceration & braking time
   * 1/4 mile time and speed
 * Designed for a 1980s-1990s aesthetic
 
