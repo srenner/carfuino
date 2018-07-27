@@ -4,7 +4,7 @@
 
 ## Overview
 * Provides a display of various performance metrics:
-  * Base view with trip timer and max MPH
+  * Base view with trip info
   * Realtime g-force
   * 0-60 acceleration time
   * 60-0 braking distance in feet
