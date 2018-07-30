@@ -1,6 +1,6 @@
 # carfuino
 
-**CAR** + per**F**ormance + ard**UINO** = carfuino. Vehicle performance monitor.
+**CAR** + per**F**ormance + ard**UINO** = carfuino. Pronounced "car-fween-oh." Or however you want. I don't care. Vehicle performance monitor.
 
 ## Overview
 * Provides a display of various performance metrics:
