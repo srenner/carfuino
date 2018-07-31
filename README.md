@@ -23,10 +23,5 @@
 * TBD
 
 ## Vehicle dependencies
-* VSS input to carfuino
-* VSS signal may need to be processed with a VR conditioner board, such as [this](http://jbperf.com/dual_VR/v2_1.html)
-
-## Integrations (TBD)
-* If using Megasquirt CAN-BUS for VSS input, uses Megasquirt's "Simplified Dash Broadcasting" as described in [this PDF](http://www.msextra.com/doc/pdf/Megasquirt_CAN_Broadcast.pdf)
-* May also output VSS to Megasquirt using CAN Receiving as described in [this PDF](http://www.msextra.com/doc/pdf/Megasquirt3_TunerStudio_MS_Lite_Reference-1.4-supplement.pdf)
-* Output VSS data through other means (??) to support additional speed-related Arduino projects (ex: speed sensitive power steering assist)
+* Speedometer input to carfuino via CAN bus
+* VSS pulse count input to carfuino via CAN bus (used to measure distance traveled)
